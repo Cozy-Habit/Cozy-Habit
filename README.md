@@ -7,7 +7,7 @@ I'm a curious Computer Science student on a quest for my Bachelor's degree and t
 - 🥅 2025 Goals: Completing my Bachelor Degree
 - ✨ Fun fact: I love a well-made flat white coffee und summer night strolls
 
-### 👩🏼‍💻 Currently focus:
+### 👩🏼‍💻 Current focus:
 
 - 🤓FrontendMentor challenges
 - 👩🏼‍💻 Revamping my portfolio
