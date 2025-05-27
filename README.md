@@ -26,6 +26,7 @@ I'm a curious Computer Science student on a quest for my Bachelor's degree and t
 <img src="https://github.com/user-attachments/assets/d60fd038-dda2-439c-94a6-09edd415353a" alt="drawing" width="48"/>
 <img src="https://github.com/user-attachments/assets/3fb4d17a-34dd-466a-9f4a-e69d93fb746a" alt="drawing" width="48"/>
 <img src="https://github.com/user-attachments/assets/4fc3a3a5-8051-4ceb-bdbe-4028694b5e4f" alt="drawing" width="48"/>
+<img src="https://github.com/user-attachments/assets/9a1fe7a9-9b04-4e84-a105-fed5670bd665" alt="drawing" width="48"/>
 
 <br>
 <br>
