@@ -1,4 +1,4 @@
-## 🌈 Hey there, I'm [Your Name] 👋
+## 🌈 Hey there, I'm Sophia 👋
 I'm a curious Computer Science student on a quest for my Bachelor's degree and the perfect cup of coffee ☕. I’m especially into frontend development, web wizardry, and making the internet a more accessible place for everyone—because good design should include everyone, not just the lucky few.
 
 ### 🧠 My brain is currently full of:
