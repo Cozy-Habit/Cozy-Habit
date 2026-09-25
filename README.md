@@ -4,14 +4,13 @@ I'm a curious Computer Science student on a quest for my Bachelor's degree and t
 - 👩🏼‍💻 Working on UX, React, Typescript and Web Accessibility
 - 🧠 Currently learning Advanced Typescript and peaking into Backend technologies
 - 👀 Looking forward to improving my knowledge on automization and performance optimization
-- 🥅 2025 Goals: Completing my Bachelor Degree
-- ✨ Fun fact: I love a well-made flat white coffee und summer night strolls
+- ✨ Fun fact: I love a well-made flat white coffee and summer night strolls
 
 ### Current focus:
 
-- 🤓FrontendMentor challenges
-- 👩🏼‍💻 Revamping my portfolio
-- 🎓 Completing Uni courses
+- 🎨 Revamping my portfolio
+- 👩🏼‍💻 Personal projects
+- 🧹 Brushing up on fundamentals
 - 🔮 Losing track of my exponentially growing Obsidian wiki
 
 ### Experience with:
