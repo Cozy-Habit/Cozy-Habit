@@ -35,7 +35,7 @@ I'm a curious Computer Science student on a quest for my Bachelor's degree and t
 
 ### ✨ Links to another dimension
 <a href="https://github.com/user-attachments/assets/e53f9b8d-4638-4f2b-906c-b169b620e45e"><img src="https://github.com/user-attachments/assets/e53f9b8d-4638-4f2b-906c-b169b620e45e" alt="drawing" width="48"/></a>
-<a href="https://cozy-habit.github.io/"><img src="https://github.com/user-attachments/assets/f90ae31e-5315-44aa-8849-4dd7f17129a8" alt="drawing" width="48"/></a>
+<a href="https://blog-96sq0d86z-sophias-projects-840a0f08.vercel.app/"><img src="https://github.com/user-attachments/assets/f90ae31e-5315-44aa-8849-4dd7f17129a8" alt="drawing" width="48"/></a>
 
 
 <!--
